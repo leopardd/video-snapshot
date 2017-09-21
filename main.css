@@ -1,0 +1,32 @@
+button:disabled,
+button[disabled],
+button[disabled]:hover {
+  color: #bbb;
+  border: 1px solid #bbb;
+  cursor: default;
+}
+
+video {
+  width: 100%;
+}
+
+.progress-bar {
+  color: #fff;
+  background-color: #bbb;
+  width: 100%;
+  height: 20px;
+  clear: both;
+  display: inline-block;
+  transition: 0.5s transform linear;
+  -o-transition: 0.5s transform linear;
+  -webkit-transition: 0.5s -webkit-transform linear;
+  transition: 0.5s -webkit-transform linear;
+  transition: 0.5s transform linear;
+  transition: 0.5s transform linear, 0.5s -webkit-transform linear;
+  -webkit-transform: scaleX(0);
+      -ms-transform: scaleX(0);
+          transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+      -ms-transform-origin: 0 0;
+          transform-origin: 0 0;
+}

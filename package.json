@@ -1,0 +1,34 @@
+{
+  "name": "video-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "rxjs",
+    "video",
+    "snapshot"
+  ],
+  "main": "main.js",
+  "scripts": {
+    "standard": "standard",
+    "validate": "npm run standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jojoee@github.com/nathaa/video-snapshot.git"
+  },
+  "author": "Nathachai Thongniran <inid3a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathaa/video-snapshot/issues"
+  },
+  "homepage": "https://github.com/nathaa/video-snapshot#readme",
+  "dependencies": {
+    "rxjs": "^5.4.3"
+  },
+  "standard": {
+    "verbose": true,
+    "globals": [
+      "Rx"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "standard.options": {
+    "verbose": true,
+    "globals": [
+      "Rx"
+    ]
+  }
+}
