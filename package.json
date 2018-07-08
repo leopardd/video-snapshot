@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jojoee@github.com/nathaa/video-snapshot.git"
+    "url": "git+https://jojoee@github.com/leopardd/video-snapshot.git"
   },
   "author": "Nathachai Thongniran <inid3a@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nathaa/video-snapshot/issues"
+    "url": "https://github.com/leopardd/video-snapshot/issues"
   },
-  "homepage": "https://github.com/nathaa/video-snapshot#readme",
+  "homepage": "https://github.com/leopardd/video-snapshot#readme",
   "dependencies": {
     "rxjs": "^5.4.3"
   },

@@ -10,3 +10,8 @@ package-lock.json
 
 # log
 *.log
+
+# IDE & editor
+.idea
+.vscode
+.history

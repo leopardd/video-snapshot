@@ -1,6 +1,6 @@
 # video-snapshot
 
-[![Travis](https://img.shields.io/travis/nathaa/video-snapshot.svg)](https://travis-ci.org/nathaa/video-snapshot)
+[![Travis](https://img.shields.io/travis/leopardd/video-snapshot.svg)](https://travis-ci.org/leopardd/video-snapshot)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 
 Video snapshot, implemented by RxJs
